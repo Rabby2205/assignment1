@@ -1,0 +1,183 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0 auto;
+    width:1200px;
+    
+}
+section{
+    display:flex;
+    margin-bottom: 10px;
+}
+.top{
+    background-image: url(images/shapes/shape-4.png);
+    background-repeat: no-repeat;
+    border:1px cyan;
+}
+h1{
+    border-left:5px solid darkmagenta;
+    border-radius: 3px;
+    padding:5px;
+}
+.announcement {
+    width:60%;
+    text-align: justify;
+    float: left;
+    padding:5px;
+}
+.asgard{
+    color:salmon;
+}
+.link_button{
+    background-image: linear-gradient(salmon,tomato);
+    text-decoration: none;
+    padding:10px 40px;
+    border-radius: 5px;
+    color:whitesmoke;
+}
+.firstimg{
+    
+
+    
+}
+.firstimg img{
+    width:300px;
+    background-image: url(images/shapes/shape-5.png);
+    box-shadow: cyan 0px 5px 40px;
+    margin-left:40px;
+    border-radius: 200px;
+    margin-top: 30px;
+    
+    
+    
+}
+/*Secend section is start from here*/
+.secondtop{
+    text-align:center;
+    padding:20px;
+    
+    
+
+}
+.finencialpart{
+    float:left;
+    padding:8px;
+    box-shadow:gray 0px 5px 30px;
+    border-radius: 20px;
+    background-color: #EDF5F6;
+    text-align: center;
+}   
+
+.finencialpart img{
+    width:140px;
+
+}
+.spacevihecle{
+    float:left;
+    padding:8px;
+    box-shadow: gray 0px 5px 30px;
+    margin-left:28px;
+    border-radius: 20px;
+    background-color: #FFEFEE;
+    width: 352px;
+    text-align: center;
+
+}
+.spacevihecle img{
+    width:100px;
+
+}
+.fastivalduration{
+    padding:8px;
+    float:left;
+    box-shadow: gray  0px 5px 30px;
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-left: 23px;
+    background-color: #FEF3D5;
+    width:400px;
+    text-align: center;
+}
+.fastivalduration img{
+    width:200px;
+
+}
+/*Third section is start from here*/
+
+.third_sec{}
+.Gloves{
+    margin-top:50px;
+}
+   
+
+.Gloves img{
+    width:200px;
+    float:left;
+    box-shadow: cyan 0px 5px 40px;
+    border-radius: 200px;
+
+}
+.third_contant{
+    margin-top:100px;
+    padding:15px;
+    margin-left: 120px;
+    background-image: url(images/shapes/shape-4.png);
+}
+.gbutton{
+    text-decoration: none;
+    color:white;
+    background-image: linear-gradient(salmon,tomato);
+    border-radius: 5px;
+    padding:10px 40px;
+}
+.thoricon img{
+    
+    float:left;
+    
+    border-radius: 50px;
+    width: 400px;
+    margin-top: 100px;
+}
+.forth_contant{
+    margin-top:100px;
+    padding:15px;
+    background-image: url(images/shapes/shape-7.png);
+    margin-right: 20px;
+    
+
+}
+/*fourth section start from below*/
+#career{
+    text-align: center;
+    padding:15px;
+    margin-top:100px;
+}
+.corporateimg img{ 
+    width:300px;
+    float:left;
+    background-image: url(images/shapes/shape-1.png);
+}
+.lastcontant{
+    padding:10px;
+    text-align: justify;
+    padding-left: 20px;
+}
+.promot{
+    text-decoration: none;
+    color:white;
+    background-image: linear-gradient(salmon,tomato);
+    padding:10px 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+/*footer section from below*/
+.footer{
+    text-align: center;
+    background-color: black;
+    color:white;
+    height: 200px;
+}
+.footer h2{
+    font-family:cursive;
+    margin-top:125px;
+    padding-top:44px;
+}
